@@ -2,7 +2,7 @@
 
 ## Overview: 
 
-The goal of the analysis is to design a machine learning algorithm to predict whether or not charity funding is used effectively based on the details of the campaign. A neutral network was chosen to accomplish this goal because of how robust of a method it is and because there is not a large need for the model to be very intrepretable.
+The goal of the analysis was to design a machine learning algorithm to predict whether or not charity funding is used effectively based on the details of the campaign. A neutral network was chosen to accomplish this goal because of how robust of a method it is and because there is not a large need for the model to be very intrepretable.
 
 ## Data Preprocessing:
 
